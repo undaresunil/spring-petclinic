@@ -1,0 +1,5 @@
+pipeline {
+	node {'JDK17'}
+	
+
+}
